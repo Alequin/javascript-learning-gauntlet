@@ -1,0 +1,26 @@
+{
+  "name": "javascript-learning-gauntlet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alequin/javascript-learning-gauntlet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alequin/javascript-learning-gauntlet/issues"
+  },
+  "homepage": "https://github.com/Alequin/javascript-learning-gauntlet#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.15.0"
+  }
+}
