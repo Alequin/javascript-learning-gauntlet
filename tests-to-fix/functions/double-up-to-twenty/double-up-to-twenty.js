@@ -1,6 +1,6 @@
 const doubleUpToTwenty = (arrayOfNumbers) => {
   return arrayOfNumbers
-    .forEach((number) => {
+    .map((number) => {
       return number * 2;
     })
     .filter((number) => {
